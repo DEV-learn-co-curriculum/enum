@@ -188,3 +188,5 @@ assert.strictEqual(response, true);
 
 %%%
 
+
+<a href='https://learn.co/lessons/enum' data-visibility='hidden'>Learn.co resource</a>
